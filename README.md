@@ -1,6 +1,7 @@
 - 👋 Hi, I'm @IasminMoreira
 - 👀 I am interested in programming
-- 🌱 I am currently learning Industrial Automation
+- 🌱 I am trained as an Industrial Automation Technician
+- 🎓 I am currently learning Computer Engineering Degree
 - 💞️ I'm looking to collaborate on creating websites or programming them
 - 📫 How to reach me: iasminmoreira09@gmail.com
 
