@@ -111,7 +111,7 @@ Aliando hardware e software pra transformar ideias em coisas que funcionam de ve
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=IasminMoreira&theme=dark&hide_border=true"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasminMoreira&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IasminMoreira&theme=github_dark"/>
 
 <br/><br/>
 
