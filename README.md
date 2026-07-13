@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:ff2d78,60:7000ff,100:00cfff&height=200&section=header&text=Iasmin%20Lopes%20Moreira&fontSize=40&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=🛠️%20Hardware%20·%20Software%20·%20Maker%20·%20Criadora%20de%20Soluções%20⚡&descAlignY=62&descSize=15&descAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%"/>
 
-<div align="left">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=700&lines=Ol%C3%A1%2C+me+chamo+Iasmin+Lopes!+%F0%9F%90%BE;T%C3%A9cnica+em+Automa%C3%A7%C3%A3o+Industrial+%F0%9F%94%A7;Graduanda+em+Engenharia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Meu+gato+Stark+%C3%A9+meu+co-programador+%F0%9F%90%B1)](https://git.io/typing-svg)
 
