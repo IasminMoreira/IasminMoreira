@@ -82,6 +82,16 @@ Aliando hardware e software pra transformar ideias em coisas que funcionam de ve
       <td>Plataforma que une educação ambiental, ação urbana e bem-estar natural — conectando pessoas à flora nativa da Mata Atlântica.</td>
       <td>HTML5, CSS3, JavaScript</td>
     </tr>
+    <tr>
+      <td><a href="https://ancora-black.vercel.app/login"><strong>⚓ Âncora</strong></a> · <a href="https://ancora-black.vercel.app/login">▶ Demo</a></td>
+      <td>Plataforma acadêmica que conecta alunos e monitores do PROA — com autenticação, agendamento de monitorias e acompanhamento de progresso por roadmap de turma.</td>
+      <td>HTML5, CSS3, JavaScript (ES Modules), Firebase Auth, Firestore, Vercel</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SOPRO-equipe1"><strong>🌬️ SOPRO</strong></a> · <a href="https://sopro-voz.com.br/">▶ Site</a></td>
+      <td>Dispositivo assistivo standalone com Edge AI que traduz o sopro em voz, devolvendo a comunicação a pessoas com afasia. Atuação em Front-end e Hardware.</td>
+      <td>ESP32, C++, Sensor de Pressão, React, HTML5/CSS3/JS</td>
+    </tr>
   </tbody>
 </table>
 
