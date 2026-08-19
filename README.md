@@ -12,7 +12,7 @@
 
 <br/>
 
-Aliando hardware e software pra transformar ideias em coisas que funcionam de verdade, seja um sistema web, um circuito na protoboard ou um microcontrolador ganhando vida às 2h da manhã.
+Aliando hardware e software pra transformar ideias em coisas que funcionam de verdade, seja um sistema web com login e autenticação, um circuito na protoboard ou um microcontrolador ganhando vida às 2h da manhã.
 
 <br/>
 
@@ -31,24 +31,34 @@ Aliando hardware e software pra transformar ideias em coisas que funcionam de ve
 <table>
   <thead>
     <tr>
-      <th>Hardware & Backend</th>
-      <th>Frontend & Design</th>
-      <th>Ferramentas / Outros</th>
+      <th>Front-end & Design</th>
+      <th>Back-end & Dados</th>
+      <th>Hardware & Embarcados</th>
+      <th>Ferramentas</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=arduino" height="40" title="Arduino"/>
-        <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++"/>
-        <img src="https://skillicons.dev/icons?i=supabase" height="40" title="Supabase"/>
-      </td>
-      <td align="center">
         <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
+        <img src="https://skillicons.dev/icons?i=react" height="40" title="React"/>
         <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5"/>
         <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3"/>
         <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma"/>
         <img src="./assets/krita.jpg" height="40" title="Krita"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" height="40" title="Java"/>
+        <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring Boot"/>
+        <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL"/>
+        <img src="https://skillicons.dev/icons?i=py" height="40" title="Python"/>
+        <img src="https://skillicons.dev/icons?i=firebase" height="40" title="Firebase"/>
+        <img src="https://skillicons.dev/icons?i=supabase" height="40" title="Supabase"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=arduino" height="40" title="Arduino"/>
+        <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++"/>
+        <img src="https://img.shields.io/badge/ESP32-000?style=flat&logo=espressif&logoColor=white" height="28" title="ESP32"/>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/>
@@ -59,6 +69,8 @@ Aliando hardware e software pra transformar ideias em coisas que funcionam de ve
     </tr>
   </tbody>
 </table>
+
+<sub>💡 Java, Spring Boot, MySQL e Python fazem parte da minha formação (Instituto PROA · Engenharia da Computação) e de projetos em equipe.</sub>
 
 </div>
 
@@ -73,24 +85,28 @@ Aliando hardware e software pra transformar ideias em coisas que funcionam de ve
     <tr>
       <th>Projeto</th>
       <th>Descrição</th>
+      <th>Minha atuação</th>
       <th>Tech Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/SOPRO-equipe1"><strong>🌬️ SOPRO</strong></a> · <a href="https://sopro-voz.com.br/">▶ Site</a></td>
+      <td>Dispositivo assistivo standalone com Edge AI que traduz o sopro em voz, devolvendo a comunicação a pessoas com afasia. Projeto em equipe (8 pessoas).</td>
+      <td><strong>Front-end · Hardware · Autenticação</strong></td>
+      <td>React, HTML5/CSS3/JS · Firebase Auth (login Google) · ESP32, C++, Sensor de Pressão</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Joao2007Pedro/Ancora"><strong>⚓ Âncora</strong></a> · <a href="https://ancora-black.vercel.app/login">▶ Demo</a></td>
+      <td>Plataforma acadêmica que conecta alunos e monitores do PROA — com autenticação, agendamento de monitorias, roadmap de progresso por turma e integração com sala de call no Discord. Projeto em equipe (5 pessoas).</td>
+      <td><strong>Front-end · Autenticação & Dados · Integrações</strong></td>
+      <td>HTML5, CSS3, JavaScript (ES Modules) · Firebase Auth (login Google) · Firestore · Integração Discord · Vercel</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/IasminMoreira/uc1Cuna"><strong>🌿 Cuna</strong></a> · <a href="https://cuna-lime.vercel.app/">▶ Demo</a></td>
       <td>Plataforma que une educação ambiental, ação urbana e bem-estar natural — conectando pessoas à flora nativa da Mata Atlântica.</td>
+      <td><strong>Projeto individual</strong></td>
       <td>HTML5, CSS3, JavaScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://ancora-black.vercel.app/login"><strong>⚓ Âncora</strong></a> · <a href="https://ancora-black.vercel.app/login">▶ Demo</a></td>
-      <td>Plataforma acadêmica que conecta alunos e monitores do PROA — com autenticação, agendamento de monitorias e acompanhamento de progresso por roadmap de turma.</td>
-      <td>HTML5, CSS3, JavaScript (ES Modules), Firebase Auth, Firestore, Vercel</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/SOPRO-equipe1"><strong>🌬️ SOPRO</strong></a> · <a href="https://sopro-voz.com.br/">▶ Site</a></td>
-      <td>Dispositivo assistivo standalone com Edge AI que traduz o sopro em voz, devolvendo a comunicação a pessoas com afasia. Atuação em Front-end e Hardware.</td>
-      <td>ESP32, C++, Sensor de Pressão, React, HTML5/CSS3/JS</td>
     </tr>
   </tbody>
 </table>
