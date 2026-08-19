@@ -92,9 +92,9 @@ Aliando hardware e software pra transformar ideias em coisas que funcionam de ve
   <tbody>
     <tr>
       <td><a href="https://github.com/SOPRO-equipe1"><strong>🌬️ SOPRO</strong></a> · <a href="https://sopro-voz.com.br/">▶ Site</a></td>
-      <td>Dispositivo assistivo standalone com Edge AI que traduz o sopro em voz, devolvendo a comunicação a pessoas com afasia. Projeto em equipe (8 pessoas).</td>
-      <td><strong>Front-end · Hardware · Autenticação</strong></td>
-      <td>React, HTML5/CSS3/JS · Firebase Auth (login Google) · ESP32, C++, Sensor de Pressão</td>
+      <td>Dispositivo assistivo standalone com Edge AI que traduz o sopro em voz, devolvendo a comunicação a pessoas com afasia. Integrei o modelo de IA ao fluxo do dispositivo (sensor de sopro → IA → voz). Projeto em equipe (8 pessoas).</td>
+      <td><strong>Front-end · Hardware · Integração de IA · Autenticação</strong></td>
+      <td>React, HTML5/CSS3/JS · ESP32, C++, Sensor de Pressão · Integração de IA (Edge AI) · Firebase Auth (login Google)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Joao2007Pedro/Ancora"><strong>⚓ Âncora</strong></a> · <a href="https://ancora-black.vercel.app/login">▶ Demo</a></td>
@@ -104,8 +104,8 @@ Aliando hardware e software pra transformar ideias em coisas que funcionam de ve
     </tr>
     <tr>
       <td><a href="https://github.com/IasminMoreira/uc1Cuna"><strong>🌿 Cuna</strong></a> · <a href="https://cuna-lime.vercel.app/">▶ Demo</a></td>
-      <td>Plataforma que une educação ambiental, ação urbana e bem-estar natural — conectando pessoas à flora nativa da Mata Atlântica.</td>
-      <td><strong>Projeto individual</strong></td>
+      <td>Plataforma gamificada que une educação ambiental, ação urbana e bem-estar natural — conectando pessoas à flora nativa da Mata Atlântica, com galeria e conteúdo interativo. Projeto em equipe (5 pessoas).</td>
+      <td><strong>Front-end · Design/UI · Gamificação</strong></td>
       <td>HTML5, CSS3, JavaScript</td>
     </tr>
   </tbody>
