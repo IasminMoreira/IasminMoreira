@@ -17,7 +17,7 @@ Aliando hardware e software pra transformar ideias em coisas que funcionam de ve
 <br/>
 
 [![Gmail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iasminmoreira09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iasmin-lopes-moreira-902639200/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iasmin-lopes-moreira/)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IasminDEV)
 
 </div>
