@@ -135,7 +135,7 @@ Aliando hardware e software pra transformar ideias em coisas que funcionam de ve
 
 ---
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=IasminMoreira&theme=dark&hide_border=true"/>
+<img height="160" src="https://streak-stats.demolab.com/?user=IasminMoreira&theme=dark&hide_border=true"/>
 
 <br/><br/>
 
